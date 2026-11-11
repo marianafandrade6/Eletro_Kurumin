@@ -33,4 +33,13 @@ O cliente tem acesso exclusivo a uma **loja virtual rápida e profissional**:
 ## 🛠️ Tecnologias
 - **Frontend:** HTML5 Semântico, CSS3 Moderno (Clean UI / Minimalista) e JavaScript ES6+
 - **Backend:** Node.js com Express 5
-- **Persistência:** `data/estoque.json` com dedução automática de estoque a cada venda realizada.
+- **Persistência:** Banco de Dados Relacional MySQL com dedução e atualização automática de estoque.
+
+
+
+
+
+
+
+## Diagrama:
+<img width="1066" height="433" alt="image" src="https://github.com/user-attachments/assets/50717ade-ee44-4144-aa29-5b618b8d8b1c" />
