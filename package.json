@@ -1,0 +1,13 @@
+{
+  "name": "eletro-kurumin-stock",
+  "version": "1.0.0",
+  "description": "Sistema de Controlo de Stock de Componentes Eletrónicos - Eletro Kurumin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
